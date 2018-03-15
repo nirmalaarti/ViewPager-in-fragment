@@ -7,10 +7,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * Created by PUNCHHLENOVO on 11-07-2017.
- */
-
 public class ScreenSlidePageFragment extends Fragment {
 
     protected ViewPager pager;
